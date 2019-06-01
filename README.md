@@ -1,2 +1,2 @@
 #PHP REST API
-Open source showcase built with the following tech stack from scratch => php, mysql for learning purposes :)
+Open source PHP REST API built with the following tech stack from scratch => php, mysql for learning purposes :)
